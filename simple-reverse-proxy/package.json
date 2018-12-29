@@ -1,0 +1,21 @@
+{
+  "name": "simple-reverse-proxy",
+  "version": "1.0.0",
+  "description": "A simple reverse proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "reverse-proxy"
+  ],
+  "author": "ssahu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "lowdb": "^1.0.0"
+  }
+}
